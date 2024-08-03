@@ -1,3 +1,5 @@
+![Alt test](WordPress_Website_on_AWS.png)
+
 ---
 # Hosting a WordPress Website on AWS
 
